@@ -11,7 +11,7 @@
         android:layout_height="100dp"
         android:layout_marginRight="8dp"
         android:id="@+id/img"
-        android:src="@drawable/lia"/>
+        android:src="@drawable/khankaa"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
